@@ -1,4 +1,4 @@
-# RESTful_Flask_WebService
+# RESTful_Flask_Server
 
 Install package : `flask`, `gevent`
 
